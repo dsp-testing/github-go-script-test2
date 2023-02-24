@@ -12,6 +12,11 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - uses: dsp-testing/github-go-script@main
+      - id: gostep
+        uses: dsp-testing/github-go-script@main
         with:
           dir: .github/workflows/awesome
+
+      - run: |
+          echo ${{ steps.gostep.outputs.repository_name }}
+
