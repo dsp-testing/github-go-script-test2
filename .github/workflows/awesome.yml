@@ -17,6 +17,6 @@ jobs:
         with:
           dir: .github/workflows/awesome
 
-      - run: |
-          echo ${{ steps.gostep.outputs.repository_name }}
-
+      - run: echo $REPOSITORY_NAME
+        env:
+          REPOSITORY_NAME: ${{ steps.gostep.outputs.repository_name }}
