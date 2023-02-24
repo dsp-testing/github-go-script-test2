@@ -1,2 +1,0 @@
-repository_name=github-go-script-test2
-event_name=
