@@ -2,7 +2,7 @@ module awesome
 
 go 1.19
 
-require github.com/dsp-testing/github-go-script v0.0.0-20230224150013-c07e3d554d99
+require github.com/dsp-testing/github-go-script v0.0.0-20230224151046-e35e91b2bb87
 
 require (
 	github.com/golang/protobuf v1.3.2 // indirect

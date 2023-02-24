@@ -4,6 +4,8 @@ github.com/dsp-testing/github-go-script v0.0.0-20230224144355-f3ab3ac1b345 h1:Yr
 github.com/dsp-testing/github-go-script v0.0.0-20230224144355-f3ab3ac1b345/go.mod h1:pMQ5ZEwvCSQ6i9qrJrlZGEWc+SlwRu7eEaWGnsxtCVM=
 github.com/dsp-testing/github-go-script v0.0.0-20230224150013-c07e3d554d99 h1:ATiLy3wrIL5y8l6Ghk9lItElLluT+UIpy/cbUpV9ZmI=
 github.com/dsp-testing/github-go-script v0.0.0-20230224150013-c07e3d554d99/go.mod h1:pMQ5ZEwvCSQ6i9qrJrlZGEWc+SlwRu7eEaWGnsxtCVM=
+github.com/dsp-testing/github-go-script v0.0.0-20230224151046-e35e91b2bb87 h1:irl2GhqtFe/xHzOQwx9qE+Gab5GVEPQyVEK5txbu7cY=
+github.com/dsp-testing/github-go-script v0.0.0-20230224151046-e35e91b2bb87/go.mod h1:pMQ5ZEwvCSQ6i9qrJrlZGEWc+SlwRu7eEaWGnsxtCVM=
 github.com/golang/protobuf v1.3.1/go.mod h1:6lQm79b+lXiMfvg/cZm0SGofjICqVBUtrP5yJMmIC1U=
 github.com/golang/protobuf v1.3.2 h1:6nsPYzhq5kReh6QImI3k5qWzO4PEbvbIW2cwSfR/6xs=
 github.com/golang/protobuf v1.3.2/go.mod h1:6lQm79b+lXiMfvg/cZm0SGofjICqVBUtrP5yJMmIC1U=
