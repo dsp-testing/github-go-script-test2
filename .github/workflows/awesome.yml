@@ -14,4 +14,4 @@ jobs:
 
       - uses: dsp-testing/github-go-script@main
         with:
-          dir: .github/workflows/myname
+          dir: .github/workflows/awesome

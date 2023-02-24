@@ -2,7 +2,7 @@ module _
 
 go 1.19
 
-require github.com/dsp-testing/github-go-script v0.0.0-20230224122521-26a0372328b1
+require github.com/dsp-testing/github-go-script v0.0.0-20230224125130-8a52b90fb77d
 
 require (
 	github.com/golang/protobuf v1.3.2 // indirect
